@@ -34,8 +34,9 @@ Adoption of agile methodologies: Agile methodologies like Scrum and Kanban gaine
 These milestones represent significant advancements in software engineering, shaping the way we develop, design, and maintain software systems.
 
 List and briefly explain the phases of the Software Development Life Cycle.
-The Software Development Life Cycle (SDLC) is a structured process used to develop, test, and maintain software applications. It typically involves several phases:
 
+
+The Software Development Life Cycle (SDLC) is a structured process used to develop, test, and maintain software applications. It typically involves several phases:
 Planning: This phase involves defining the project's goals, scope, and requirements. Key activities include feasibility studies, market analysis, and creating a project plan.
 Requirements Gathering: This phase involves gathering detailed information about the software's functionality, features, and performance requirements. This is often done through interviews, surveys, and workshops.
 Design: The design phase focuses on creating a blueprint for the software, including architecture, data structures, user interface, and algorithms.
@@ -45,6 +46,8 @@ Deployment: This phase involves deploying the software to its intended environme
 Maintenance: After deployment, the software requires ongoing maintenance to address bugs, improve performance, and add new features. This phase includes activities like bug fixes, updates, and enhancements
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
+
+
 Waterfall and Agile are two popular methodologies used in software development. They differ significantly in their approach to project planning, execution, and delivery.
 Waterfall Methodology
 Sequential: Projects follow a linear progression, with each phase completed before moving to the next.
@@ -78,6 +81,8 @@ Projects where rapid delivery is important.
 In conclusion, both Waterfall and Agile have their strengths and weaknesses. The choice of methodology depends on the specific characteristics of the project and the team's preferences.
 
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
+
+
 (a)Software Developer
 Role: 
 The primary role of a software developer is to design, write, and maintain software applications.
@@ -111,6 +116,7 @@ Ensuring that the project is delivered on time, within budget, and to the desire
 
 Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
 Integrated Development Environments (IDEs)
+
 
 IDEs are software applications that provide a comprehensive set of tools for software development. They streamline the coding process, improve productivity, and enhance the overall development experience.
 Key features and benefits of IDEs:
@@ -193,6 +199,7 @@ By addressing these common challenges proactively, software engineers can improv
 
 Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
 
+
 Types of Testing in Software Quality Assurance
 Software testing is a crucial phase in the software development life cycle (SDLC) that ensures the quality and reliability of the final product. Different types of testing are conducted at various stages to identify and address defects.
 
@@ -225,10 +232,10 @@ By effectively implementing these testing types, software development teams can 
 
 Define prompt engineering and discuss its importance in interacting with AI models.
 
+
 Prompt Engineering is the art of crafting effective prompts to guide AI models like large language models (LLMs) to generate desired outputs. It involves understanding the capabilities and limitations of the AI model and constructing prompts that elicit the most relevant and informative responses.
 
 Importance of Prompt Engineering in AI Interactions:
-
 Clarity and Specificity: Well-crafted prompts provide clear instructions to the AI model, ensuring that it understands the desired task and generates relevant content.
 Control Over Output: By carefully constructing prompts, users can guide the AI model's output towards specific topics, styles, or formats.
 Accuracy and Relevance: Effective prompt engineering can help to improve the accuracy and relevance of the AI model's responses.
@@ -242,6 +249,7 @@ Experimentation: Try different prompts to see what works best for a particular A
 By mastering prompt engineering, users can effectively interact with AI models and leverage their capabilities to achieve desired outcomes.
 
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
+
 
 Vague Prompt: "Tell me about AI."
 Improved Prompt: "Explain the concept of artificial intelligence in simple terms, focusing on its applications in healthcare and customer service."
